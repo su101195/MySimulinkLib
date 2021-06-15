@@ -4,7 +4,8 @@ I have found only code implementations of the algorithms which sometimes might n
 
 Algorithms presented in the following papers are implemented:
 
-1. Harold D. Black - A Passive System for Determining the Attitude of a Satellite (1964) [Tri-axial Attitude Determination (TRIAD method)]
-2. Paul B. Davenport - A Vector Approach to the Algebra of Rotations with Applications (1968) [Davenport's q-method]
-3. F. Landis Markley - Attitude Determination using Vector Observations and Singular Value Decomposition (1968) [SVD method]
-4. Malcolm D. Shuster - Three-axis Attitude Determination from Vector Observations (1981) [Quaternion Estimator (QUEST)]
+1. Harold D. Black - A Passive System for Determining the Attitude of a Satellite (1964) 
+2. Bar-Itzhack et al. - Optimized TRIAD Algorithm for Attitude Determination (1997)
+3. Paul B. Davenport - A Vector Approach to the Algebra of Rotations with Applications (1968)
+4. F. Landis Markley - Attitude Determination using Vector Observations and Singular Value Decomposition (1968)
+5. Malcolm D. Shuster - Three-axis Attitude Determination from Vector Observations (1981) 
